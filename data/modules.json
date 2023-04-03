@@ -1,0 +1,16 @@
+[
+    {
+        "moduleId": 1,
+        "title": "Graphic Design"
+    },
+
+    {
+        "moduleId": 2,
+        "title": "Fundamentals of Programming"
+    },
+
+    {
+        "moduleId": 3,
+        "title": "Web Technology"
+    }
+]
